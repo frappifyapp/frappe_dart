@@ -15,7 +15,7 @@ environment:
 
 dependencies:
   dio: ^5.9.2
-  equatable: ^2.0.8
+  equatable: ">=2.0.8 <4.0.0"
   socket_io_client: ^3.1.4
 
 dev_dependencies:
